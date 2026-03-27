@@ -33,4 +33,13 @@ Download the .xlsx file from the repository.
 
 Open it in Microsoft Excel.
 
+👨‍💻 Author
+Sunny Gupta
+
+LinkedIn: (https://www.linkedin.com/in/sunny-gupta-529b101b6)
+
+Email: (mailto:Sunnygupta53418@gmail.com)
+
+⭐ If you found this project useful, feel free to explore and connect!
+
 
