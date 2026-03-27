@@ -1,4 +1,6 @@
 Netflix Global Content Strategy Dashboard 📊
+
+
 📌 Project Overview
 This project involves a comprehensive analysis of a Netflix dataset containing 1,500 records of movies and TV shows. Using Advanced Excel, I transformed raw, unstructured data into a dynamic, multi-dimensional dashboard that provides key insights into content production, audience demographics, and regional trends.
 
